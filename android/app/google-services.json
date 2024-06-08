@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304286975816",
+    "project_id": "hrms-flutter-1ae9a",
+    "storage_bucket": "hrms-flutter-1ae9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304286975816:android:7ee56a0e54a274c2c6557d",
+        "android_client_info": {
+          "package_name": "com.elsner.hrms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Ie1WvlfU5zeUeU6QPsdIyu7Rykq-d-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

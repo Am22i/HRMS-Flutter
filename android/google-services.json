@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104772080221",
+    "project_id": "hrms-2ac09",
+    "storage_bucket": "hrms-2ac09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104772080221:android:77c1389f4b05e9bbe8f3b4",
+        "android_client_info": {
+          "package_name": "com.elsner.hrms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104772080221-sk6bf7a7al650vge8q8ub71hv8ndnu68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbzTGbWrFX9PUkCqs2hG4gSAr7zpCIvm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104772080221-sk6bf7a7al650vge8q8ub71hv8ndnu68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
